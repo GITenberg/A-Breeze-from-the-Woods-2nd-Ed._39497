@@ -1,0 +1,32 @@
+_repo: A-Breeze-from-the-Woods-2nd-Ed._39497
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39497-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bartlett, W. C. (William Chauncey)
+    alias: Bartlett, William Chauncey
+    birthdate: 1818
+    deathdate: 1907
+    gutenberg_agent_id: '40049'
+    url: http://www.gutenberg.org/2009/agents/40049
+description: ''
+gutenberg_issued: '2012-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 19th century'
+- !lcsh 'California -- Description and travel'
+- !lcc 'PS'
+tableOfContents: A breeze from the woods -- Locusts and wild honey -- A week in Mendocino
+  -- Under a madroño -- A day on the Los Gatos -- Shadows of St. Helena -- The house
+  on the hill -- The garden on the hill -- The homestead by the sea -- Suburban etchings
+  -- Literature and art.
+title: A Breeze from the Woods, 2nd Ed.
+url: http://www.gutenberg.org/ebooks/39497
